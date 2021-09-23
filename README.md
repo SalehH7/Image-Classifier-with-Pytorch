@@ -9,7 +9,7 @@ You can read more about the transfer learning at https://cs231n.github.io/transf
 
 Steps :
 
--Load Data
+Done-Load Data
 
 -Training the model
 
